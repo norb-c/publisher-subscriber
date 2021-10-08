@@ -10,6 +10,8 @@ This service built with Nodejs running on `Typescript` with  `RabbitMQ` as messa
   
 ## Documentation
 The API documentation is hosted on [API Documentation](https://linkshortner-starter.herokuapp.com/9gXY)
+The Design document [Design Document](https://linkshortner-starter.herokuapp.com/yubJ)
+
 
 ## Configuration
   
