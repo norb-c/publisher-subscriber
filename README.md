@@ -1,5 +1,5 @@
 
-# [Pangaea Test API Documentation](https://linkshortner-starter.herokuapp.com/9gXY)
+# [Subscriber Publisher](https://linkshortner-starter.herokuapp.com/9gXY)
 
 Some of the patterns applied are: 
 * Publisher Subscriber Pattern
