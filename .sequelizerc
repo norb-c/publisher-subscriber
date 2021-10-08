@@ -1,0 +1,7 @@
+const path = require('path');
+
+module.exports = {
+  'config': path.resolve('./publisher/src/config', 'mysql.ts'),
+  'models-path': path.resolve('./publisher/src/database', 'models'),
+  'migrations-path': path.resolve('./publisher/src/database', 'migrations'),
+};
